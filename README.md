@@ -8,3 +8,5 @@
 3.利用textrank的get_keyphrases取得關鍵短語
 
 4.利用texkrank的get_key_sentences取得摘要
+
+![image](https://github.com/openaifab/textrank4zh/blob/master/textrank.jpg)
